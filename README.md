@@ -13,7 +13,6 @@ Este repositório tem como objetivos:
 
 ## 📂 Estrutura do Repositório
 portugol/
-│
-├── exercicios/ # Soluções de exercícios propostos
-├── projetos/ # Projetos completos desenvolvidos
-└── README.md # Este arquivo
+  exercicios/ # Soluções de exercícios propostos
+  projetos/ # Projetos completos desenvolvidos
+  README.md # Este arquivo
